@@ -4,7 +4,7 @@ import { Cart } from '../model/cart.model';
 @Component({
 
 selector:"cart-summary",
-templateUrl:"cartSummary.component.html"
+templateUrl:"cartsummary.component.html"
 
 })
 export class CartSummaryComponent
